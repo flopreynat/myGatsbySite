@@ -9,13 +9,13 @@
 
 Gatsby site based upon Gatsby's [hello-world boilerplate](https://github.com/gatsbyjs/gatsby-starter-hello-world). 
 
-"This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React."
+_"This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React."_
 
-ALL npm commands run on this project:
+### ALL npm commands run on this project:
 
-gatsby new myGatsbySite https://github.com/gatsbyjs/gatsby-starter-hello-world
+- gatsby new myGatsbySite https://github.com/gatsbyjs/gatsby-starter-hello-world
 cd myGatsbySite
-npm install node-sass gatsby-plugin-sass
-npm install --save-dev env-cmd
-npm install gatsby-source-filesystem
-npm install --save gatsby-transformer-remark
+- npm install node-sass gatsby-plugin-sass
+- npm install --save-dev env-cmd
+- npm install gatsby-source-filesystem
+- npm install --save gatsby-transformer-remark
