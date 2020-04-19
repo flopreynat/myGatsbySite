@@ -19,3 +19,7 @@ _"This starter ships with the main Gatsby configuration files you might need to 
 - npm install --save-dev env-cmd
 - [npm install gatsby-source-filesystem](https://www.npmjs.com/package/gatsby-source-filesystem)
 - [npm install --save gatsby-transformer-remark](https://www.gatsbyjs.org/packages/gatsby-transformer-remark/)
+- npm install gatsby-plugin-sharp gatsby-remark-images gatsby-remark-relative-images
+- npm install gatsby-source-contentful
+- npm i @contentful/rich-text-react-renderer
+- npm i gatsby-plugin-react-helmet react-helmet
